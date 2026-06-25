@@ -1,0 +1,3 @@
+Adafruit CircuitPython 9.1.4 on 2024-09-17; Adafruit Feather STM32F405 Express with STM32F405RG
+Board ID:feather_stm32f405_express
+UID:3A0058000850314D35323120
